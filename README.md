@@ -6,5 +6,3 @@ So far, I've scraped all the games that occurred during the college season and o
 My first idea was to look for a way to turn USAU ratings scores into a win-probability predictor. I'm not all the way done with this, and I'm not entirely happy with what I have so far (see WinPctAnalysis.py for methods so far, but it's in progress).
 
 Future ideas include analysis of sections/regions by how many games they played/won/lost, rankings/ratings, and maybe tournament=level stuff (correlation between level of tournaments attended and finish, etc?).
-
-(Don't pay attention to the progress bar up top showing 99.7% HTML - that's all in /rawdata/ .)
