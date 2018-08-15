@@ -1,0 +1,2 @@
+$ cat .gitattributes
+rawdata/* linguist-vendored
